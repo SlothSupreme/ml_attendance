@@ -1,10 +1,6 @@
 # ml_attendance
-Novel Computer Vision model deployment using YOLOV12 using object based image code, to identify student attendance
-#################################
-# Andrew Doyle
-# 2/15/2025
-# Using Yolo11 from ultralytics to detect items for class attendance while allowing a margin of tolerance due to probabilities of image counts being the same.
-# Swapped to a segmented model as it appears to 
-# Model Source:
-# https://docs.ultralytics.com/tasks/segment/
-#################################
+2/15/2025
+Using Yolo11 from ultralytics to detect items for class attendance while allowing a margin of tolerance due to probabilities of image counts being the same.
+Swapped to a segmented model as it appears to 
+Model Source:
+https://docs.ultralytics.com/tasks/segment/
