@@ -2,5 +2,5 @@ input_path: C:/Users/maste/Jupyter/outputs
 lib_path: C:/Users/maste/Jupyter/img lib
 mod_path: C:/Users/maste/Jupyter/model
 out_path: C:/Users/maste/Jupyter/outputs
-person_threshold: 0.125
+person_threshold: 0.0
 tol: 0.2
